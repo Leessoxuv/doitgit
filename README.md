@@ -5,3 +5,5 @@ do it git &amp; github beginner
 
 Do it! git&github 실습 입니다. 
 
+README 작성 연습 중입니다. 
+
